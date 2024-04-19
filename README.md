@@ -1,9 +1,7 @@
 # Prosjekt Rubensrør
-
+### Work in progress
 Contributers:
 Erik, Helene, Ulrik
-
-** This is a work in progress
 
 ### Todo
 
