@@ -4,6 +4,7 @@ Contributers:
 Erik, Helene, Ulrik
 
 ### Todo
+* Lage finere Readme.
 
 **Forsterker**
 * Finne noen finne knotter vi kan bruke som føtter.
@@ -11,3 +12,4 @@ Erik, Helene, Ulrik
 
 **Rubensrøret**
 * Finne og montere en flytregulator som ikke er for heftig innstrømming.
+
