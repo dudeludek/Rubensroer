@@ -41,10 +41,10 @@ Sett i gang funksjonsgeneratoren/musikken og nyt.
  (Film)
 
 ### Viktig å merke seg
-Rubensrøret behøver helt vindstille forhold, derfor er det ikke anbefalt å sette opp utendørs. Mech har fungert fint til testing, bare påse at avtrekket står på. Det er en brannmelder i taket, men siden Mech er godkjent rom for varmearbeid skal det en del til for denne å reagere på varme, men utøv måtehold og pass på å ikke produsere røyk ved å sette fyr på klær eller hår.
+Rubensrøret krever helt vindstille forhold, derfor er det ikke anbefalt å sette opp utendørs. Mech har fungert fint til testing, bare påse at avtrekket står på. Det er en brannmelder i taket, men siden Mech er godkjent rom for varmearbeid skal det en del til for denne å reagere på varme, men utøv måtehold og pass på å ikke produsere røyk ved å sette fyr på klær eller hår.
 
 ## Motivasjon
-
+Studentorganisasjonen Omega Verksted ønsket seg i vinter 2024 et rubensrør og godkjente i den anledning et støttemidler til prosjektet. Something flammer og lyd er gøy.. something Matte 4 oblig..
 
 ## Teori
 
