@@ -61,7 +61,9 @@ Rubensrøret behøver helt vindstille forhold, derfor er det ikke anbefalt å se
 * Luftehull?
 
 **Rubensrøret**
-* Finne og montere en flytregulator som ikke er for heftig innstrømming.
+* Finne og montere en flytregulator som ikke har for heftig innstrømming.
+* Bytte rør til ett med mindre diameter og smalere hull
+* Lage stødigere føtter til røret
 
 ![First_nodes](/Media/first_nodes.jpg)
 
