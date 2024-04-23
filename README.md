@@ -77,7 +77,7 @@ $$
 
 Kan brukes:)
 
-Høyden på flammene er proporsjonal med gassflyt ut hullet. Gassflyten er igjen proporsjonal med roten av differansen mellom trykket på innsiden og utsiden av røret. 
+Høyden på flammene er proporsjonal med gassflyt ut hullet. Gassflyten er igjen proporsjonal med roten av differansen mellom trykket på innsiden og utsiden av røret. Dette er grunnen til at selv om trykket over tid på innsiden av røret er det samme gjennom røret, vil ikke alle flammene være like høye. Høyden på flammene har en ulinær sammenheng med trykket på innsiden av røret!
 
 
 ## Kildeliste
