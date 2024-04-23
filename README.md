@@ -75,6 +75,12 @@ $$
 \frac{\delta u}{\delta t} = c^2\frac{\delta^2u}{\delta x^2}
 $$
 
-Kan brukes for 
+Kan brukes:)
+
+Høyden på flammene er proporsjonal med gassflyt ut hullet. Gassflyten er igjen proporsjonal med roten av differansen mellom trykket på innsiden og utsiden av røret. 
+
+
+## Kildeliste
+https://en.wikipedia.org/wiki/Rubens_tube
 
 
