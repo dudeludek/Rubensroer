@@ -69,14 +69,71 @@ Studentorganisasjonen Omega Verksted ønsket seg i vinter 2024 et rubensrør og 
 
 
 ## Litt teori
-Bølgelikningen
+Med utgangspunkt i bølgelikningen
 
 $$
-\frac{\delta u}{\delta t} = c^2\frac{\delta^2u}{\delta x^2}
+\begin{equation}
+\frac{1}{c^2}\frac{\delta u}{\delta t} = \frac{\delta^2u}{\delta x^2}
+\end{equation}
 $$
 
+bla bla
 Kan brukes:)
 
+Ved $x=0$ betrakter vi røret som åpent siden membranet på denne siden er elastisk og tillater lydtrykk å fritt overføres mellom høyttalerelementet og røret. Ved $x=L$ vil det alltid være en node. Dette gir randkravene
+
+$$
+\begin{align}
+\frac{\delta u(0,t)}{\delta x} &= 0 \\
+u(L,x) &= 0
+\end{align}
+$$
+
+Antar at løsningen kan skrives på formen
+
+$$
+\begin{equation}
+u(x,t)=X(x)T(t),
+\end{equation}
+$$
+
+så dette setter vi inn i bølgelikningen
+
+$$
+\begin{equation*}
+\frac{1}{c^2} \frac{T''(t)}{T(t)} = \frac{X''(x)}{X(x)}.
+\end{equation*}
+$$
+
+Her må hver side av likhetstegnet være lik en separasjonskonstant. Dette gir et system med to ordinære difflikninger
+
+$$
+\begin{align}
+X''(x)+w^2X(x) &= 0     \\ 
+T''(t)+c^2w^2T(t) &= 0   
+\end{align}
+$$
+
+Bruker randbetingelsene (2) og (3)
+$$
+\begin{align*}
+X(x) &= A\cos(wx)+B\sin(wx)     \\
+X'(0) &= -wA\sin(0) +wB\cos(0) = 0 \\
+wB &= 0.
+\end{align*}
+$$
+
+Siden $w>0$ må $B=0$. Ved enden av røret har vi at
+
+$$
+\begin{align*}
+X(L) &= A\cos(wL) = 0   \\
+\cos(wL) &= 0     \\
+w_nL &= \frac{(2n-1)\pi}{2}, \quad \text{for n heltall}
+\end{align*}
+$$
+
+Som gir 
 Høyden på flammene er proporsjonal med gassflyt ut hullet. Gassflyten er igjen proporsjonal med roten av differansen mellom trykket på innsiden og utsiden av røret. Dette er grunnen til at selv om trykket over tid på innsiden av røret er det samme gjennom røret, vil ikke alle flammene være like høye. Høyden på flammene har en ulinær sammenheng med trykket på innsiden av røret!
 
 
