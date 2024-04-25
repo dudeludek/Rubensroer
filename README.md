@@ -34,7 +34,7 @@ Fest røret i et stødig bord med skrutvinger og koble til slangen med propan. T
 
  Lyden i høyttaleren vil være temmelig svak, slik at dersom det er et ønske å høre tydelig hva som skjer kan det kobles opp en aktiv høyttaler ved å plugge den ledige RCAen inn i en DI-boks og XLR videre til aktiv høyttaler. Merk at lydbølgene fra høyttaleren vil skape interferens med bølgene i røret dersom avstanden mellom disse er liten.
 
-Åpne gassventilen forsiktig. Røret fylles ganske kjapt, slik at etter ca 10 sekunder er røret klar til antenning. Skru ventilen til for å justere høyden på flammene ti omtrent 2 cm.
+Åpne gassventilen forsiktig. Røret fylles ganske kjapt, slik at etter ca 10 sekunder er røret klar til antenning. Skru ventilen på propen flasken for å justere høyden på flammene til omtrent 2 cm. Merk at det kan være nødvendig å øke gassflyten senere da lyden har en tendens til å øke propanflyten ut av røret.
 
 Sett i gang funksjonsgeneratoren/musikken og nyt.
 
