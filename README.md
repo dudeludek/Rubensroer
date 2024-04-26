@@ -38,7 +38,7 @@ Fest røret i et stødig bord med skrutvinger og koble til slangen med propan. T
 
 Sett i gang funksjonsgeneratoren/musikken og nyt.
 
-![Varierende_frekvens](/Media/rubensbølger.gif)
+![Varierende_frekvens](/Media/varierende_frekvens2.mp4)
 
 ### Viktig å merke seg
 Rubensrøret krever helt vindstille forhold, derfor er det ikke anbefalt å sette opp utendørs. Mech har fungert fint til testing, bare påse at avtrekket står på. Det er en brannmelder i taket, men siden Mech er godkjent rom for varmearbeid skal det en del til for denne å reagere på varme, men utøv måtehold og pass på å ikke produsere røyk ved å sette fyr på klær eller hår.
@@ -47,31 +47,6 @@ Rubensrøret krever helt vindstille forhold, derfor er det ikke anbefalt å sett
 Studentorganisasjonen Omega Verksted ønsket seg i vinter 2024 et rubensrør og godkjente i den anledning et støttemidler til prosjektet. Something flammer og lyd er gøy.. something Matte 4 oblig..
 
 ## Teori
-Foreslår at vi fjerner dette punktet og flytter det som står under "litt teori" flyttes hit?
-
-## Test
-
-
-## Konklusjon
-Røret funker, men har forbedringspotensiale. Høytaleren og foresterkeren funker som det skal, no notes. Gassflyten i røret kan bli forbedret. Vi ønsker å beholde ca samme trykk som under testene vi gjennomførte, men ønsker høyere gassflyt inn i røret. Når høytaleren er på, spesielt på høyere volum, dyttes det mer gass ut av røret enn som kommer inn fra flasken. Dette betyr at, med mindre man manuelt øker gassflyten, og da trykket, vil flammene etterhvert dø ut. Ideelt sett hadde vi brukt en trykkreduserende regulator med god gassflyt for å unngå for høyt trykk i røret når det ikke spilles noe, men også ha høy nok flytt inn i røret når vi spiller høy musikk.
-
-## Forbedringer
-
-
-
-**Forsterker**
-* Finne noen finne knotter vi kan bruke som føtter.
-* Luftehull?
-
-**Rubensrøret**
-* Finne og montere en flytregulator som ikke har for heftig innstrømming.
-* Bytte rør til ett med mindre diameter og smalere hull
-* Lage stødigere føtter til røret
-
-![First_nodes](/Media/first_nodes.jpg)
-
-
-## Litt teori
 Med utgangspunkt i bølgelikningen
 
 $$
@@ -139,6 +114,27 @@ $$
 Som gir 
 Høyden på flammene er proporsjonal med gassflyt ut hullet. Gassflyten er igjen proporsjonal med roten av differansen mellom trykket på innsiden og utsiden av røret. Dette er grunnen til at selv om trykket over tid på innsiden av røret er det samme gjennom røret, vil ikke alle flammene være like høye. Høyden på flammene har en ulinær sammenheng med trykket på innsiden av røret!
 
+
+## Test
+
+
+## Konklusjon
+Røret funker, men har forbedringspotensiale. Høytaleren og foresterkeren funker som det skal, no notes. Gassflyten i røret kan bli forbedret. Vi ønsker å beholde ca samme trykk som under testene vi gjennomførte, men ønsker høyere gassflyt inn i røret. Når høytaleren er på, spesielt på høyere volum, dyttes det mer gass ut av røret enn som kommer inn fra flasken. Dette betyr at, med mindre man manuelt øker gassflyten, og da trykket, vil flammene etterhvert dø ut. Ideelt sett hadde vi brukt en trykkreduserende regulator med god gassflyt for å unngå for høyt trykk i røret når det ikke spilles noe, men også ha høy nok flytt inn i røret når vi spiller høy musikk.
+
+## Forbedringer
+
+
+
+**Forsterker**
+* Finne noen finne knotter vi kan bruke som føtter.
+* Luftehull?
+
+**Rubensrøret**
+* Finne og montere en flytregulator som ikke har for heftig innstrømming.
+* Bytte rør til ett med mindre diameter og smalere hull
+* Lage stødigere føtter til røret
+
+![First_nodes](/Media/first_nodes.jpg)
 
 ## Kildeliste
 https://en.wikipedia.org/wiki/Rubens_tube
