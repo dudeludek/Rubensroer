@@ -38,7 +38,7 @@ Fest røret i et stødig bord med skrutvinger og koble til slangen med propan. T
 
 Sett i gang funksjonsgeneratoren/musikken og nyt.
 
- (Film)
+![Varierende_frekvens](/Media/varierende_frekvens2.mp4)
 
 ### Viktig å merke seg
 Rubensrøret krever helt vindstille forhold, derfor er det ikke anbefalt å sette opp utendørs. Mech har fungert fint til testing, bare påse at avtrekket står på. Det er en brannmelder i taket, men siden Mech er godkjent rom for varmearbeid skal det en del til for denne å reagere på varme, men utøv måtehold og pass på å ikke produsere røyk ved å sette fyr på klær eller hår.
