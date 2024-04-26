@@ -30,7 +30,7 @@ Valgfritt:
 ### Oppsett
 Fest røret i et stødig bord med skrutvinger og koble til slangen med propan. Tre høyttaleren over røret på siden med membranet og koble til forsterkeren med bananplugger. Forsterkeren håndterer flere typer innganger, det anbefales å bruke RCA til minijack mellom forsterker og mediekilde.
 
- (Bilde)
+![Amp](/Media/amp_v1.jpg)
 
  Lyden i høyttaleren vil være temmelig svak, slik at dersom det er et ønske å høre tydelig hva som skjer kan det kobles opp en aktiv høyttaler ved å plugge den ledige RCAen inn i en DI-boks og XLR videre til aktiv høyttaler. Merk at lydbølgene fra høyttaleren vil skape interferens med bølgene i røret dersom avstanden mellom disse er liten.
 
