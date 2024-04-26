@@ -44,7 +44,7 @@ Sett i gang funksjonsgeneratoren/musikken og nyt.
 Rubensrøret krever helt vindstille forhold, derfor er det ikke anbefalt å sette opp utendørs. Mech har fungert fint til testing, bare påse at avtrekket står på. Det er en brannmelder i taket, men siden Mech er godkjent rom for varmearbeid skal det en del til for denne å reagere på varme, men utøv måtehold og pass på å ikke produsere røyk ved å sette fyr på klær eller hår.
 
 ## Motivasjon
-Studentorganisasjonen Omega Verksted ønsket seg i vinter 2024 et rubensrør og godkjente i den anledning et støttemidler til prosjektet. Something flammer og lyd er gøy.. something Matte 4 oblig..
+Studentorganisasjonen Omega Verksted ønsket seg i vinter 2024 et rubensrør og godkjente i den anledning et støttemidler til prosjektet. Rubensrøret er tenkt å brukes på stand for Omega Verksted for å promotere verkstedet. Vi valgte å ta på oss prosjektet delevis fordi vi synes det var jævlig kult, og delevis fordi det virka som en morsommere måte å gjøre oblig i TMA4121.
 
 ## Teori
 Med utgangspunkt i bølgelikningen
