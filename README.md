@@ -112,6 +112,7 @@ w_nL &= \frac{(2n-1)\pi}{2}, \quad \text{for n heltall}
 $$
 
 Som gir 
+
 Høyden på flammene er proporsjonal med gassflyt ut hullet. Gassflyten er igjen proporsjonal med roten av differansen mellom trykket på innsiden og utsiden av røret. Dette er grunnen til at selv om trykket over tid på innsiden av røret er det samme gjennom røret, vil ikke alle flammene være like høye. Høyden på flammene har en ulinær sammenheng med trykket på innsiden av røret!
 
 ![Bølge_animasjon](/Media/rubensbølger.gif)
