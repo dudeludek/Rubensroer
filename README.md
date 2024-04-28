@@ -115,6 +115,9 @@ Som gir
 Høyden på flammene er proporsjonal med gassflyt ut hullet. Gassflyten er igjen proporsjonal med roten av differansen mellom trykket på innsiden og utsiden av røret. Dette er grunnen til at selv om trykket over tid på innsiden av røret er det samme gjennom røret, vil ikke alle flammene være like høye. Høyden på flammene har en ulinær sammenheng med trykket på innsiden av røret!
 
 
+## Røroppsettet
+Reubensrøret vi har brukt er ett rør med ??? diameter hvor det er drillet ??? hull med ??? avstand. I den ene enden av røret har vi en membran for å forhindre at propan går til høytaleren, men som fortsatt slipper gjennom lyd. I den andre enden har vi en trykkluft hurtigkobling hvor man kobler på propanslangen. I de nyeste bildene og videoene kan man også se en flytregulator rett før røret, denne viste seg å ikke klare å regulere nok og har derfor blitt fjernet til den nyeste utgaven av røret.
+
 ## Test
 
 
