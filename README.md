@@ -114,9 +114,13 @@ $$
 Som gir 
 Høyden på flammene er proporsjonal med gassflyt ut hullet. Gassflyten er igjen proporsjonal med roten av differansen mellom trykket på innsiden og utsiden av røret. Dette er grunnen til at selv om trykket over tid på innsiden av røret er det samme gjennom røret, vil ikke alle flammene være like høye. Høyden på flammene har en ulinær sammenheng med trykket på innsiden av røret!
 
+![Bølge_animasjon](/Media/rubensbølger.gif)
+
 
 ## Røroppsettet
 Reubensrøret vi har brukt er ett rør med ??? diameter hvor det er drillet ??? hull med ??? avstand. I den ene enden av røret har vi en membran for å forhindre at propan går til høytaleren, men som fortsatt slipper gjennom lyd. I den andre enden har vi en trykkluft hurtigkobling hvor man kobler på propanslangen. I de nyeste bildene og videoene kan man også se en flytregulator rett før røret, denne viste seg å ikke klare å regulere nok og har derfor blitt fjernet til den nyeste utgaven av røret.
+
+![First_nodes](/Media/first_nodes.jpg)
 
 ## Test
 
@@ -125,7 +129,6 @@ Reubensrøret vi har brukt er ett rør med ??? diameter hvor det er drillet ??? 
 Røret funker, men har forbedringspotensiale. Høytaleren og foresterkeren funker som det skal, no notes. Gassflyten i røret kan bli forbedret. Vi ønsker å beholde ca samme trykk som under testene vi gjennomførte, men ønsker høyere gassflyt inn i røret. Når høytaleren er på, spesielt på høyere volum, dyttes det mer gass ut av røret enn som kommer inn fra flasken. Dette betyr at, med mindre man manuelt øker gassflyten, og da trykket, vil flammene etterhvert dø ut. Ideelt sett hadde vi brukt en trykkreduserende regulator med god gassflyt for å unngå for høyt trykk i røret når det ikke spilles noe, men også ha høy nok flytt inn i røret når vi spiller høy musikk.
 
 ## Forbedringer
-
 
 
 **Forsterker**
@@ -137,7 +140,7 @@ Røret funker, men har forbedringspotensiale. Høytaleren og foresterkeren funke
 * Bytte rør til ett med mindre diameter og smalere hull
 * Lage stødigere føtter til røret
 
-![First_nodes](/Media/first_nodes.jpg)
+
 
 ## Kildeliste
 https://en.wikipedia.org/wiki/Rubens_tube
